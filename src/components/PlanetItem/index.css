@@ -1,0 +1,9 @@
+.img-con {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.slide-img {
+  width: 500px;
+}
